@@ -5,6 +5,7 @@ Desempenho. Ele responde **apenas** com base nas fontes que eu selecionei, mostr
 resposta e gera materiais de estudo a partir delas.
 
 🔗 **Notebook compartilhado:** https://notebook.google.com/notebook/190b11ea-ab61-4d0a-8beb-e0e373d94062
+(o Gemini Notebook pede login com qualquer conta Google para abrir)
 
 ## Tema e objetivo
 
